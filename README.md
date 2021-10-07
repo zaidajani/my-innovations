@@ -18,6 +18,7 @@ Innovations done by me throughout my life (can be updated via pull request).
 14. calculator
 15. calculator-download
 16. dictionary
-17. nametranslate (best until yet).
+17. nametranslate (best until yet).'
+18. IR car
 
 ### much more will be created (even on interstellar planets 🤣)
