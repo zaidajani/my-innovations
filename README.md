@@ -11,5 +11,13 @@ Innovations done by me throughout my life (can be updated via pull request).
 7. idgp
 8. csv-in-array
 9. elements app
+10. cybertimer
+11. wa-covid-bot
+12. covid-navi-mumbai
+13. commuter-download
+14. calculator
+15. calculator-download
+16. dictionary
+17. nametranslate (best until yet).
 
-much more will be created (one day, on interstellar planets)
+much more will be created (even on interstellar planets 🤣)
