@@ -21,5 +21,7 @@ Innovations done by me throughout my life (can be updated via pull request).
 17. nametranslate (best until yet).'
 18. IR car
 19. appointment-app
+20. text-media
+21. text-media-api
 
 ### much more will be created (even on interstellar planets 🤣)
