@@ -20,5 +20,6 @@ Innovations done by me throughout my life (can be updated via pull request).
 16. dictionary
 17. nametranslate (best until yet).'
 18. IR car
+19. appointment-app
 
 ### much more will be created (even on interstellar planets 🤣)
