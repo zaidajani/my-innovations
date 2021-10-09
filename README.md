@@ -23,5 +23,6 @@ Innovations done by me throughout my life (can be updated via pull request).
 19. appointment-app
 20. text-media
 21. text-media-api
+22. text-to-speech
 
 ### much more will be created (even on interstellar planets 🤣)
