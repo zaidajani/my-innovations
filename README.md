@@ -25,5 +25,7 @@ Innovations done by me throughout my life (can be updated via pull request).
 21. text-media-api
 22. text-to-speech
 23. countdown
+24. whatsapp-housing
+25. face-detection/recognition
 
 ### much more will be created (even on interstellar planets 🤣)
