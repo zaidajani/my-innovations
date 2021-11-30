@@ -27,5 +27,7 @@ Innovations done by me throughout my life (can be updated via pull request).
 23. countdown
 24. whatsapp-housing
 25. face-detection/recognition
+26. hyphenex
+27. RGB led
 
 ### much more will be created (even on interstellar planets 🤣)
