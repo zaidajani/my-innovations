@@ -1,4 +1,4 @@
-## my-innovations
+## My Innovations
 
 Innovations done by me throughout my life (can be updated via pull request).
 
