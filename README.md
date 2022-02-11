@@ -30,6 +30,10 @@ Innovations done by me throughout my life (can be updated via pull request).
 26. hyphenex
 27. RGB led
 28. Spacer spaces ( future )
-29. tamarind terminal
+29. tamarind terminal ( future )
+30. vidly
+31. focustime
+32. mealsToGo
+33. jobCon
 
 ### much more will be created (even on interstellar planets 🤣)
